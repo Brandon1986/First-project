@@ -1,0 +1,48 @@
+body {
+  background-color: gray;
+
+
+}
+
+header {
+  background-color: gray;
+}
+
+nav {
+  /*margin: 0 auto;*/
+  width: 100%;
+  text-align: center;
+}
+ul {
+  /*padding: 0;*/
+}
+
+
+nav li {
+  background-color: gray;
+  display: inline-block;
+  padding: 10px;
+  text-shadow:5px 5px 5px black;
+}
+
+nav li a:hover {
+  background-color: blue;
+  color: white;
+}
+nav li a {
+  color: white;
+  font-size: 20px;
+}
+section img {
+  width: 15%;
+  height: 30%;
+}
+aside h1 {
+  color: #0000FF;
+}
+section h3 a {
+  color: white;
+}
+section h3 {
+  color: white;
+}
